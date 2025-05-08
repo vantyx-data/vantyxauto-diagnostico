@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+gradio
+ollama
+langchain
+chromadb
+weasyprint
+pyserial
+requests
